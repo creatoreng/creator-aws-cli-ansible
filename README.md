@@ -51,7 +51,7 @@ $ ls
  > playbook.yml
  > roles/
 $ cd roles/
-roles$ git clone git@github.com:creatoreng/creator-aws-cli.git
+roles$ git clone git@github.com:creatoreng/creator-aws-cli-ansible.git
 ```
 
 ## Set environment variables for use of AWS CLI in Ansible
