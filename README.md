@@ -20,7 +20,7 @@ Add the following section:
 
 ```
 roles:
-  - name: creator-aws-cli
+  - name: creator-aws-cli-ansible
     src: git+git@github.com:creatoreng/creator-aws-cli-ansible.git
     version: main
 ```
